@@ -1,3 +1,3 @@
-Made by myicloudinfo.
+Made by sakkilaj.
 
-Checkout my channel "myicloudinfo"
+Checkout my channel "sakilajjjj
