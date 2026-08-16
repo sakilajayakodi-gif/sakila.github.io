@@ -1,8 +1,8 @@
-Origin: GRAYRHINO
-Label: Sim Unlock
+Origin: PanyolSoft
+Label: PanyolSoft
 Suite: stable
-Version: 0.5-2
-Codename: iOS
+Version: 1.0
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Grayrhino iOS sim unlock cydia tweak 
+Description: PanyolSoft official Repo

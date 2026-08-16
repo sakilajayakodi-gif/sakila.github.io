@@ -1,0 +1,13 @@
+Package: com.panyolsoft.grayrhino
+Name: grayrhino
+Version: 0.2
+Architecture: iphoneos-arm
+Description: get rid of that carrier lock without extra hardware!
+Maintainer: BlueDog <josuealonso@panyolsoft.com>
+Author: BlueDog <josuealonso@panyolsoft.com>
+Section: Tweaks
+Filename: debs/com.panyolsoft.grayrhino_iphoneos-arm_0.2.deb
+Size: 218000 
+MD5sum: 
+SHA1: 
+SHA256: 
